@@ -1,6 +1,6 @@
 {
   "name": "touch-sensor",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "This is a simple driver for the touch sensor.",
   "author": "Yiluo Li",
   "main": "src/index.js",

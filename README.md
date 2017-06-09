@@ -9,7 +9,7 @@ This is an easy driver for touch sensor.
 
 ## Supported Models
 
-- [touch-sensor](https://rap.ruff.io/devices/ky-016)
+- [touch-sensor](https://rap.ruff.io/raps/touch-sensor)
 
 ## Installing
 
