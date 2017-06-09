@@ -1,7 +1,26 @@
 {
-    "name": "touch-sensor",
-    "version": "0.1.0",
-    "description": "This is a simple driver for the touch sensor.",
-    "author": "Yiluo Li",
-    "main": "src/index.js"
+  "name": "touch-sensor",
+  "version": "0.3.0",
+  "description": "This is a simple driver for the touch sensor.",
+  "author": "Yiluo Li",
+  "main": "src/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yiluo-pHoton/touch-sensor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yiluo-pHoton/touch-sensor"
+  },
+  "homepage": "https://github.com/Yiluo-pHoton/touch-sensor",
+  "keywords": [
+    "ruff",
+    "driver",
+    "touch",
+    "sensor",
+    "touch-sensor"
+  ],
+  "engines": {
+    "ruff": ">=1.2.0 <2.0.0"
+  }
 }
